@@ -1,0 +1,15 @@
+/* Fonts */
+@font-face {
+    font-family: poke-hollow;
+    src: url(../fonts/Pokemon-Hollow.ttf);
+}
+@font-face {
+    font-family: poke-solid;
+    src: url(../fonts/Pokemon-Solid.ttf);
+}
+
+.header-title {
+    font-family: poke-solid;
+    text-shadow: 0px 0px 5px black;
+    letter-spacing: 5px;
+}
